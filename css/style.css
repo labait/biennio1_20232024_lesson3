@@ -1,21 +1,21 @@
 * {
-  color: #8CE0E8; }
+  color: black; }
 
 a {
-  color: #e8948c; }
+  color: black; }
 
 .spaced {
   margin: 0; }
 
 body {
   font-family: Arial;
-  color: #e8948c; }
+  color: black; }
 
 a:hover {
   color: #ff0000; }
 
 #title {
-  color: #e8948c;
+  color: black;
   font-size: 5em;
   font-family: 'Lexend Deca', sans-serif;
   letter-spacing: -10px;
@@ -33,7 +33,7 @@ main {
   main > div {
     font-size: 1em;
     text-align: center;
-    color: #e8948c; }
+    color: black; }
 
 @media screen and (min-width: 720px) {
   #title {
